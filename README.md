@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinayakJadkar
 - 👀 I’m interested in ... New Trends & Technologies.
 - 🌱 I’m currently learning ...Stock Market Analysis..
-- 💞️ I’m looking to collaborate on ... interesting topics.
+- 💞️ I’m looking to collaborate on ... experience through startups/internships/job.
 - 📫 How to reach me ... vinayakjadkar65@gmail.com
 
 <!---
