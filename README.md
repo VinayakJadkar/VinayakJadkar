@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinayakJadkar
-- 👀 I’m interested in ... New Trends & Technologies.
-- 🌱 I’m currently learning ...Stock Market Analysis..
+- 👀 I’m interested in ... Data, Financial Markets, New Trends & Technologies.
+- 🌱 I’m currently learning ..... Data Analyst Skill sets
 - 💞️ I’m looking to collaborate on ... experience through startups/internships/job.
 - 📫 How to reach me ... vinayakjadkar65@gmail.com
 
